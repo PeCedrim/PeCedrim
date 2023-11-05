@@ -1,9 +1,8 @@
-# Pedro Cedrim
-
-<h3> - Estudante de Engenharia de Computação na Universidade Federal de Alagoas - UFAL. </h3>
-<h3> - Moro em Maceió-AL | Brasil. </h3>
-<h3> - Buscando sempre melhorar minhas habilidades de programação. </h3>
-<h3> - Amante de sistemas embarcados. </h3>
+# Saudações! Sou Pedro Cedrim;
+#### • Estudante de Engenharia de Computação na Universidade Federal de Alagoas - UFAL;
+#### • Maceió-AL | Brasil;
+#### • Buscando sempre melhorar minhas habilidades de programação;
+#### • Amante de sistemas embarcados. 
 
 
 ## Ferramentas e Tecnologias
